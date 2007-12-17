@@ -23,7 +23,6 @@ BuildRequires:	file
 BuildRequires:	libmemcache-devel
 BuildRequires:	libevent-devel
 Requires:	memcached
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 "Auth MemCookie" are an Apache v2 authentification and authorization modules are
