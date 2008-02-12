@@ -26,8 +26,8 @@ Requires:	memcached
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
-"Auth MemCookie" are an Apache v2 authentification and authorization modules are
-based on "cookie" authentification mecanism. The module don't make
+"Auth MemCookie" are an Apache v2 authentification and authorization modules
+are based on "cookie" authentification mecanism. The module don't make
 authentification by it self, but verify if authentification "the cookie" are
 valid for each url protected by the module. The module validate also if the
 "authentificated user" have authorisation to acces url. Authentification are
