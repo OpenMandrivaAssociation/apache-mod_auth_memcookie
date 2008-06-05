@@ -6,7 +6,7 @@
 Summary:	Apache Cookie Authentification Module
 Name:		apache-%{mod_name}
 Version:	1.0.2
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		System/Servers
 License:	Apache License
 URL:		http://authmemcookie.sourceforge.net/
