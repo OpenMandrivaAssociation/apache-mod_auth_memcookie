@@ -9,7 +9,7 @@ Version:	1.0.2
 Release:	%mkrel 8
 Group:		System/Servers
 License:	Apache License
-URL:		http://authmemcookie.sourceforge.net/
+URL:		https://authmemcookie.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/authmemcookie/mod_authmemcookie_v%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
